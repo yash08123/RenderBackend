@@ -34,7 +34,7 @@ app.get('/', (req, res) => {
         <pre>
           POST /forms
           {
-            "questions": ["Naam ky hai aapka?", "Kaha tak padhe hai app?"],
+            "questions": ["Naam ky hai aapka?", "Kaha tak padhe hai app?","Konse colour ki hain?"],
             "headerImage": "https://example.com/image.png"
           }
         </pre>
